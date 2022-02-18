@@ -25,7 +25,7 @@ ASSIGNMENTS
 Problem set 1: Statistics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_400f11_assn01))
+({{< resource_link 14743674-aabd-025b-4bcf-23a4eb5b78ea "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +34,7 @@ Problem set 1: Statistics
 Problem set 2: Manual control
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_400f11_assn02))
+({{< resource_link 7d543d8b-e68e-fcef-b510-0f13389d5d30 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}

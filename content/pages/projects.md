@@ -27,7 +27,7 @@ PROJECTS
 Project 1: Driving while distracted
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_400f11_proj01))
+({{< resource_link 228a51ef-6b99-2288-5b60-811e3b21f8bf "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ Project 1: Driving while distracted
 Project 2: Visual vs. auditory reaction times
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_400f11_proj02))
+({{< resource_link 07449073-e97d-8993-5c01-34188cb26342 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
