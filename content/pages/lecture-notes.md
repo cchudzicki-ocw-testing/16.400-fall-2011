@@ -31,7 +31,7 @@ KEY DATES
 Introduction and vision I
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 9ebe689f-0012-1b0d-c334-abe2591a29ab "PDF - 2.0MB" >}})
+({{% resource_link 9ebe689f-0012-1b0d-c334-abe2591a29ab "PDF - 2.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ Introduction and vision I
 Vision II
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 42da58ab-dc5b-314b-5d4f-af0feee7dc29 "PDF - 4.4MB" >}})
+({{% resource_link 42da58ab-dc5b-314b-5d4f-af0feee7dc29 "PDF - 4.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +55,7 @@ Vision II
 Space bioastronautics
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 8c9e39e3-3a68-743d-b1fb-a807ebba9598 "PDF - 6.1MB" >}}) (Courtesy of John B. Charles. Used with permission.)
+({{% resource_link 8c9e39e3-3a68-743d-b1fb-a807ebba9598 "PDF - 6.1MB" %}}) (Courtesy of John B. Charles. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ Space bioastronautics
 Research methods I
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 709bdc6a-a843-88b6-2ba4-d6a2e98d1c71 "PDF" >}})
+({{% resource_link 709bdc6a-a843-88b6-2ba4-d6a2e98d1c71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ Research methods I
 Research methods II
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ed742e50-7b7f-cc15-b8d2-e2ce2420007f "PDF" >}})
+({{% resource_link ed742e50-7b7f-cc15-b8d2-e2ce2420007f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +91,7 @@ Research methods II
 Vestibular/spatial disorientation
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 4f685663-59f4-ecb5-cee7-d30d701ff0fb "PDF - 1.1MB" >}})
+({{% resource_link 4f685663-59f4-ecb5-cee7-d30d701ff0fb "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ Vestibular/spatial disorientation
 Displays
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a664fa0c-2374-06cb-e8af-5310fc4da009 "PDF" >}})
+({{% resource_link a664fa0c-2374-06cb-e8af-5310fc4da009 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +127,7 @@ Space human factors
 Manual control I
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 5b93927a-98a4-c81a-11f7-09ec9fbaafb1 "PDF" >}})
+({{% resource_link 5b93927a-98a4-c81a-11f7-09ec9fbaafb1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +139,7 @@ Manual control I
 Manual control II
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 287583c5-24e3-f1d9-f6a3-4dd5c113d57d "PDF - 1.4MB" >}})
+({{% resource_link 287583c5-24e3-f1d9-f6a3-4dd5c113d57d "PDF - 1.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +187,7 @@ Space physiology
 Auditory
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ba6a40fc-d704-5e04-4bf6-0171cc6499de "PDF - 1.7MB" >}})
+({{% resource_link ba6a40fc-d704-5e04-4bf6-0171cc6499de "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +223,7 @@ Flight deck automation working group
 Decision making; FAA regulations
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link b8595c73-fec2-9e60-1ba5-3e78a2f82729 "PDF - 1.1MB" >}})
+({{% resource_link b8595c73-fec2-9e60-1ba5-3e78a2f82729 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +235,7 @@ Decision making; FAA regulations
 Attention/workload
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 9ed7eebe-3975-c555-fede-d17b89529833 "PDF" >}})
+({{% resource_link 9ed7eebe-3975-c555-fede-d17b89529833 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +247,7 @@ Attention/workload
 Fatigue/circadian rhythms
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 9d0fe692-c646-f3d2-eb63-4674a5b02ae0 "PDF - 1.0MB" >}}) (Courtesy of Caroline Lowenthal. Used with permission.)
+({{% resource_link 9d0fe692-c646-f3d2-eb63-4674a5b02ae0 "PDF - 1.0MB" %}}) (Courtesy of Caroline Lowenthal. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +259,7 @@ Fatigue/circadian rhythms
 Anthropometry/environmental ergonomics
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 6d0db5ef-7d8e-7295-9312-0264f22dd3d5 "PDF - 1.3MB" >}})
+({{% resource_link 6d0db5ef-7d8e-7295-9312-0264f22dd3d5 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +271,7 @@ Anthropometry/environmental ergonomics
 Response selection and control of movement
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 7ab16b42-2ca0-ba8a-79c1-b71fd75c12d2 "PDF" >}})
+({{% resource_link 7ab16b42-2ca0-ba8a-79c1-b71fd75c12d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
